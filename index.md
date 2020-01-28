@@ -1,5 +1,12 @@
 ## This is a test site
 
+### My notes
+Does [this](second_page.md) show my second page?
+
+Add a navbar by [following these Jekyll theme customization instructions](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-html-layout) and then [these instructions](https://dh.obdurodon.org/jekyll.xhtml) ?
+
+### GitHub default notes
+
 You can use the [editor on GitHub](https://github.com/netterie/netterie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
