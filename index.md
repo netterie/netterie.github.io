@@ -1,7 +1,7 @@
 ## This is a test site
 
 ### My notes
-Does [this](second_page.md) show my second page?
+Does [this](second_page.md) show my second page? Does [this](third_page.md) show my third page?
 
 Add a navbar by [following these Jekyll theme customization instructions](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-html-layout) and then [these instructions](https://dh.obdurodon.org/jekyll.xhtml) ?
 
